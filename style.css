@@ -2,7 +2,7 @@ header{
     color: red;
 }
 html{
-    background-image: url(./assets/image/wp5148272.jpg);
+    background-image: url(./assets/images/360_F_145394434_mguNNu3pCwQFpoCRUpsm5ywolMO3Kfxx.jpg);
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -37,6 +37,6 @@ hr
    #box
    {
     display: block;
-    background-image: url("./assets/image/360_F_145394434_mguNNu3pCwQFpoCRUpsm5ywolMO3Kfxx.jpg");
+    background-image: url("./assets/images/360_F_145394434_mguNNu3pCwQFpoCRUpsm5ywolMO3Kfxx.jpg");
    }
 }
