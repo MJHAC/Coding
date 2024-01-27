@@ -1,0 +1,42 @@
+header{
+    color: red;
+}
+html{
+    background-image: url(./assets/image/wp5148272.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+*
+{
+    text-align: centre;
+}
+h1{
+    color: blueviolet;
+}
+h2{
+    color: blue;
+}
+.main{
+    height: 300px;
+    width: 600px; 
+}
+div
+{
+    border: solid red;
+}
+hr
+{
+    color:rgb(255, 225, 127);
+}
+.main{
+    padding: 0px;
+}
+
+@media (min-width:200) and (max-width:500px)
+{
+   #box
+   {
+    display: block;
+    background-image: url("./assets/image/360_F_145394434_mguNNu3pCwQFpoCRUpsm5ywolMO3Kfxx.jpg");
+   }
+}
